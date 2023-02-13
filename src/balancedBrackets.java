@@ -70,5 +70,6 @@ public class balancedBrackets {
             }
         }
         return (stack.isEmpty());
+        //repeat that code
     }
 }
